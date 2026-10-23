@@ -46,6 +46,10 @@ ImageCacheManager/
 └── README.md
 ```
 
+### Диаграмма классов
+
+<img width="1804" height="807" alt="sitairis" src="https://github.com/user-attachments/assets/4f310cf8-46a9-4714-afda-846c81c0ed4e" />
+
 ### Models
 
 Содержит модели данных приложения:
